@@ -92,7 +92,12 @@ Another piece of Content
 The content
 
 ### `state.href`
-Content inside
+Content inside <br>
+   SolGrep - A scriptable semantic grep utility for solidity (crunch numbers, find specific contracts, extract data) <br>
+   semgrep - Semgrep is a fast, open-source, static analysis tool for finding bugs and enforcing code standards at editor, commit, and CI time, and now supports Solidity! <br>
+   Sourcegraph - A powerful online code search service that can be used to search the sanctuary without cloning. <br>
+
+
 
 ### `state.route`
 Content inside
@@ -159,6 +164,4 @@ $ npm install
   humans
 - [sheetify](https://github.com/stackcss/sheetify) - modular CSS bundler for
   `browserify`
-
-
 
